@@ -1,0 +1,24 @@
+/*
+.sizer{
+    height: 300px;
+    width: 600px;
+}
+*/
+
+
+.Scarydoor {
+    height: 550px;
+    width: 300px;
+}
+
+.color{
+    color: gray;
+}
+
+body {
+    background-color: gray;
+}
+
+.Door1 {
+    background-color: aqua;
+}
